@@ -4,7 +4,6 @@ CFLAGS = -g -Wall -Werror -pthread
 
 TAR = ctcp.tar.gz
 SUBMISSION_SITE = https://web.stanford.edu/class/cs144/cgi-bin/submit/
-SUBMIT = Makefile *.[ch] ctcp_README
 
 # Add any header files you've added here.
 HDRS = ctcp_linked_list.h ctcp_utils.h ctcp.h ctcp_sys.h ctcp_sys_internal.h
@@ -27,7 +26,7 @@ ctcp: $(OBJS)
 	$(CC) $(CFLAGS) -o ctcp $(OBJS)
 
 submit: clean
-	tar -czf $(TAR) $(SUBMIT)
+	./.collectSubmission.sh $(TAR) lab12
 	@echo
 	@echo
 	@echo '  Your submission file $(TAR) was successfully created.'
