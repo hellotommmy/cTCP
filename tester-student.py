@@ -6,20 +6,21 @@ import signal
 import subprocess
 import sys
 import time
+import traceback
 
 from ctypes import *
 from random import choice
 from subprocess import Popen, PIPE
 
 CTCP_BINARY = "./ctcp"
-REFERENCE_BINARY = "./tester"
+REFERENCE_BINARY = "./reference"
 
 CLIENT_PORT = str(32843)
 SERVER_PORT = str(52365)
 REF_PORT = str(39184)
 
 # Number of seconds to wait before timing out a read from STDERR or STDOUT.
-TEST_TIMEOUT = 5
+TEST_TIMEOUT = 10
 
 CTCP_HEADER_LEN = 20
 MAX_SEG_DATA_SIZE = 1440
@@ -686,11 +687,12 @@ def run_tests(tests):
         num_success += 1
     except KeyboardInterrupt:
       raise
-    except IOError:
+    except IOError as e:
       err = "     |-> Possible segfault or early call to ctcp_destroy()"
-    except IndexError:
+    except IndexError as e:
       err = "     |-> Test failed but *may* pass if timeout is increased"
-    except:
+    except Exception as e:
+      traceback.print_exc()
       pass
     print "." * (70 - len(test_info)),
     print "PASS" if passed else "FAIL"
@@ -743,7 +745,9 @@ def parse_args():
   # Get all the tests to run.
   if not args.tests:
     args.tests = range(1, len(TESTS) + (0 if not args.lab2 else 1))
-  TEST_TIMEOUT = args.timeout
+  if args.timeout:
+    global TEST_TIMEOUT
+    TEST_TIMEOUT = args.timeout
 
   if args.lab2:
     run_lab2 = True

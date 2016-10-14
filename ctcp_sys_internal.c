@@ -730,9 +730,9 @@ int conn_input(conn_t *conn, void *buf, size_t len) { ASSERT_CONN;
     return -1;
   }
 
-  /* Read from the appropriate place (STDIN or the associated program). */
+  /* Read from the appropriate place (STOUT of the associated program). */
   if (run_program)
-    r = read(conn->stdin, buf, len);
+    r = read(conn->stdout, buf, len);
   else if (unix_socket)
     r = read(STDIN_FILENO, buf, len);
   /* Add network-line endings if needed. */
@@ -895,7 +895,7 @@ int conn_send(conn_t *conn, ctcp_segment_t *segment, size_t len) { ASSERT_CONN;
 
   /* Return number of bytes sent. Need to subtract some because the return value
      is actually the size of the TCP segment instead of the cTCP segment. */
-  if (n >= TCP_HDR_SIZE)
+  if (n >= (long int)TCP_HDR_SIZE)
     return n - (TCP_HDR_SIZE + IP_HDR_SIZE - sizeof(ctcp_segment_t));
   return n;
 }
