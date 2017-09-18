@@ -1,0 +1,2967 @@
+[INFO] Cleaning up old connections... done!
+[INFO] Connected to server
+[READ][cTCP] seqno: 1, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 74f0
+[READ][cTCP] seqno: 1441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: a4c9
+[READ][cTCP] seqno: 2881, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 2229
+[READ][cTCP] seqno: 4321, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 7790
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 1, len: 20, flags: ACK, window: 4320, cksum: 9df
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 1, len: 20, flags: ACK, window: 2880, cksum: a9e4
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 1, len: 20, flags: ACK, window: 1440, cksum: 49ea
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 1, len: 20, flags: ACK, window: 1440, cksum: 49ea
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 1, len: 20, flags: ACK, window: 1440, cksum: 49ea
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 5761, len: 20, flags: ACK, window: 5760, cksum: e9c2
+[READ][cTCP] seqno: 5761, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 96c5
+[READ][cTCP] seqno: 7201, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 13d1
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 7201, len: 20, flags: ACK, window: 5760, cksum: 49bd
+[READ][cTCP] seqno: 8641, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: ebdf
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 8641, len: 20, flags: ACK, window: 5760, cksum: a9b7
+[READ][cTCP] seqno: 10081, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 4356
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 10081, len: 20, flags: ACK, window: 5760, cksum: 9b2
+[READ][cTCP] seqno: 11521, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 9f14
+[READ][cTCP] seqno: 12961, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: e8f1
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 10081, len: 20, flags: ACK, window: 4320, cksum: a9b7
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 10081, len: 20, flags: ACK, window: 2880, cksum: 49bd
+1
+2
+[READ][cTCP] seqno: 11521, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 9f14
+[READ][cTCP] seqno: 12961, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 7184
+[READ][cTCP] seqno: 14401, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 32f
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 10081, len: 20, flags: ACK, window: 2880, cksum: 49bd
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 10081, len: 20, flags: ACK, window: 1440, cksum: e9c2
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 10081, len: 20, flags: ACK, window: 1440, cksum: e9c2
+1
+2
+3
+[READ][cTCP] seqno: 14401, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 32f
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 10081, len: 20, flags: ACK, window: 1440, cksum: e9c2
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 15841, len: 20, flags: ACK, window: 5760, cksum: 899b
+[READ][cTCP] seqno: 14401, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 34c5
+[READ][cTCP] seqno: 15841, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 6c26
+[READ][cTCP] seqno: 17281, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: d37c
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 17281, len: 20, flags: ACK, window: 5760, cksum: e995
+[READ][cTCP] seqno: 18721, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 45c8
+[READ][cTCP] seqno: 20161, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: ef1
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 17281, len: 20, flags: ACK, window: 4320, cksum: 899b
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 17281, len: 20, flags: ACK, window: 2880, cksum: 29a1
+[READ][cTCP] seqno: 5761, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: d052
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 17281, len: 20, flags: ACK, window: 2880, cksum: 29a1
+1
+2
+[READ][cTCP] seqno: 7201, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 10e7
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 17281, len: 20, flags: ACK, window: 2880, cksum: 29a1
+1
+2
+[READ][cTCP] seqno: 8641, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 5a88
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 21601, len: 20, flags: ACK, window: 5760, cksum: 985
+[READ][cTCP] seqno: 10081, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: a03b
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 21601, len: 20, flags: ACK, window: 5760, cksum: 985
+1
+2
+[READ][cTCP] seqno: 11521, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 4e7
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 21601, len: 20, flags: ACK, window: 5760, cksum: 985
+1
+2
+[READ][cTCP] seqno: 12961, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: abd
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 21601, len: 20, flags: ACK, window: 5760, cksum: 985
+1
+2
+3
+[READ][cTCP] seqno: 14401, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: ee08
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 21601, len: 20, flags: ACK, window: 5760, cksum: 985
+1
+4
+[READ][cTCP] seqno: 15841, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 4e66
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 21601, len: 20, flags: ACK, window: 5760, cksum: 985
+1
+4
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 21601, len: 20, flags: ACK, window: 5760, cksum: 985
+[READ][cTCP] seqno: 15841, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 4e2c
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 21601, len: 20, flags: ACK, window: 5760, cksum: 985
+1
+2
+[READ][cTCP] seqno: 17281, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 2ae5
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 21601, len: 20, flags: ACK, window: 5760, cksum: 985
+1
+2
+[READ][cTCP] seqno: 18721, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: d41d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 21601, len: 20, flags: ACK, window: 5760, cksum: 985
+1
+2
+3
+[READ][cTCP] seqno: 20161, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 563c
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 21601, len: 20, flags: ACK, window: 5760, cksum: 985
+1
+4
+[READ][cTCP] seqno: 21601, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 2eb0
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 21601, len: 20, flags: ACK, window: 5760, cksum: 985
+1
+4
+[READ][cTCP] seqno: 23041, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: e719
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 21601, len: 20, flags: ACK, window: 4320, cksum: a98a
+[READ][cTCP] seqno: 21601, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 2ea6
+[READ][cTCP] seqno: 23041, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 8f01
+[READ][cTCP] seqno: 24481, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 9d7f
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 21601, len: 20, flags: ACK, window: 4320, cksum: a98a
+1
+2
+[READ][cTCP] seqno: 7201, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 10e7
+[READ][cTCP] seqno: 8641, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: c4f5
+[READ][cTCP] seqno: 14401, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: ee08
+[READ][cTCP] seqno: 15841, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: a323
+[READ][cTCP] seqno: 17281, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: a3ca
+[READ][cTCP] seqno: 18721, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 4ced
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 21601, len: 20, flags: ACK, window: 4320, cksum: a98a
+1
+4
+[READ][cTCP] seqno: 15841, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 4e2c
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 21601, len: 20, flags: ACK, window: 4320, cksum: a98a
+1
+2
+[READ][cTCP] seqno: 17281, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: a13c
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 21601, len: 20, flags: ACK, window: 4320, cksum: a98a
+1
+2
+[READ][cTCP] seqno: 18721, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 223
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 21601, len: 20, flags: ACK, window: 4320, cksum: a98a
+1
+2
+3
+[READ][cTCP] seqno: 20161, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: d14a
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 21601, len: 20, flags: ACK, window: 4320, cksum: a98a
+1
+4
+[READ][cTCP] seqno: 21601, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 1316
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 21601, len: 20, flags: ACK, window: 4320, cksum: a98a
+1
+4
+[READ][cTCP] seqno: 23041, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 7b00
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 21601, len: 20, flags: ACK, window: 4320, cksum: a98a
+1
+4
+[READ][cTCP] seqno: 17281, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 8ec9
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 4320, cksum: 985
+[READ][cTCP] seqno: 18721, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: d34e
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 4320, cksum: 985
+1
+2
+[READ][cTCP] seqno: 20161, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: ea22
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 4320, cksum: 985
+1
+2
+[READ][cTCP] seqno: 21601, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: d71e
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 4320, cksum: 985
+1
+2
+3
+[READ][cTCP] seqno: 23041, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: d3ce
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 4320, cksum: 985
+1
+4
+[READ][cTCP] seqno: 24481, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 56d8
+[READ][cTCP] seqno: 11521, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 4e7
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 2880, cksum: a98a
+[READ][cTCP] seqno: 12961, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: df21
+[READ][cTCP] seqno: 14401, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: b1df
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 2880, cksum: a98a
+1
+2
+[READ][cTCP] seqno: 15841, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: f392
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 2880, cksum: a98a
+1
+2
+[READ][cTCP] seqno: 17281, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 79a8
+[READ][cTCP] seqno: 18721, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: d41d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 2880, cksum: a98a
+[READ][cTCP] seqno: 20161, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 669f
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 2880, cksum: a98a
+1
+2
+[READ][cTCP] seqno: 21601, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 4d6c
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 2880, cksum: a98a
+1
+2
+[READ][cTCP] seqno: 23041, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 7b4e
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 2880, cksum: a98a
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 2880, cksum: a98a
+[READ][cTCP] seqno: 15841, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: d7d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 2880, cksum: a98a
+1
+2
+[READ][cTCP] seqno: 17281, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: c82
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 2880, cksum: a98a
+1
+2
+[READ][cTCP] seqno: 18721, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 8fc0
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 2880, cksum: a98a
+1
+2
+3
+[READ][cTCP] seqno: 20161, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: a2ba
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 2880, cksum: a98a
+1
+4
+[READ][cTCP] seqno: 21601, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: b32
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 2880, cksum: a98a
+1
+4
+[READ][cTCP] seqno: 23041, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: f816
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 2880, cksum: a98a
+1
+4
+[READ][cTCP] seqno: 10081, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 3f2f
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 2880, cksum: a98a
+[READ][cTCP] seqno: 11521, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: c59c
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 2880, cksum: a98a
+1
+2
+[READ][cTCP] seqno: 12961, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 2cec
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 2880, cksum: a98a
+1
+2
+[READ][cTCP] seqno: 14401, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 62c3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 2880, cksum: a98a
+1
+2
+3
+[READ][cTCP] seqno: 15841, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: e934
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 2880, cksum: a98a
+1
+4
+[READ][cTCP] seqno: 17281, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: a3ca
+[READ][cTCP] seqno: 18721, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 8a65
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 2880, cksum: a98a
+[READ][cTCP] seqno: 20161, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: db57
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 2880, cksum: a98a
+1
+2
+[READ][cTCP] seqno: 21601, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 1554
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 2880, cksum: a98a
+1
+2
+[READ][cTCP] seqno: 23041, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 49a7
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 2880, cksum: a98a
+1
+2
+3
+[READ][cTCP] seqno: 24481, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 4961
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 23041, len: 20, flags: ACK, window: 2880, cksum: a98a
+1
+4
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 27361, len: 20, flags: ACK, window: 5760, cksum: 896e
+[READ][cTCP] seqno: 24481, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: d702
+[READ][cTCP] seqno: 20161, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: d14a
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 27361, len: 20, flags:[READ][cTCP] seqno: 20161, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: cef6
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 27361, len: 20, flags: ACK, window: 5760, cksum: 896e
+[READ][cTCP] seqno: 21601, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 927b
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 27361, len: 20, flags: ACK, window: 5760, cksum: 896e
+1
+2
+[READ][cTCP] seqno: 23041, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: a650
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 27361, len: 20, flags: ACK, window: 5760, cksum: 896e
+1
+2
+[READ][cTCP] seqno: 24481, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: c973
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 27361, len: 20, flags: ACK, window: 5760, cksum: 896e
+1
+2
+3
+[READ][cTCP] seqno: 17281, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 79a8
+[READ][cTCP] seqno: 18721, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 8442
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 27361, len: 20, flags: ACK, window: 5760, cksum: 896e
+[READ][cTCP] seqno: 20161, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 283
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 27361, len: 20, flags: ACK, window: 5760, cksum: 896e
+1
+2
+[READ][cTCP] seqno: 21601, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: d78d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 27361, len: 20, flags: ACK, window: 5760, cksum: 896e
+1
+2
+[READ][cTCP] seqno: 23041, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 4ca8
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 27361, len: 20, flags: ACK, window: 5760, cksum: 896e
+1
+2
+3
+[READ][cTCP] seqno: 24481, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 1491
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 27361, len: 20, flags: ACK, window: 5760, cksum: 896e
+1
+4
+[READ][cTCP] seqno: 14401, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: b1df
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 27361, len: 20, flags: ACK, window: 5760, cksum: 896e
+[READ][cTCP] seqno: 15841, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: a576
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 27361, len: 20, flags: ACK, window: 5760, cksum: 896e
+1
+2
+[READ][cTCP] seqno: 17281, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: f524
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 27361, len: 20, flags: ACK, window: 5760, cksum: 896e
+1
+2
+[READ][cTCP] seqno: 18721, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 997d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 27361, len: 20, flags: ACK, window: 5760, cksum: 896e
+1
+2
+3
+[READ][cTCP] seqno: 20161, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: de68
+[READ][cTCP] seqno: 21601, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 607f
+[READ][cTCP] seqno: 20161, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 669f
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 27361, len: 20, flags: ACK, window: 5760, cksum: 896e
+[READ][cTCP] seqno: 25921, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: b0d3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 27361, len: 20, flags: ACK, window: 5760, cksum: 896e
+[READ][cTCP] seqno: 27361, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 875c
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 27361, len: 20, flags: ACK, window: 5760, cksum: 896e
+1
+2
+[READ][cTCP] seqno: 28801, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: b1f8
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 27361, len: 20, flags: ACK, window: 5760, cksum: 896e
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 27361, len: 20, flags: ACK, window: 5760, cksum: 896e
+1
+2
+3
+[READ][cTCP] seqno: 30241, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: d49d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 27361, len: 20, flags: ACK, window: 5760, cksum: 896e
+1
+4
+[READ][cTCP] seqno: 31681, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 68e5
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 27361, len: 20, flags: ACK, window: 5760, cksum: 896e
+1
+4
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 27361, len: 20, flags: ACK, window: 5760, cksum: 896e
+1
+4
+[READ][cTCP] seqno: 20161, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: cef6
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 28801, len: 20, flags: ACK, window: 5760, cksum: e968
+[READ][cTCP] seqno: 21601, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 556
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 28801, len: 20, flags: ACK, window: 4320, cksum: 896e
+1
+2
+[READ][cTCP] seqno: 23041, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: e95e
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 28801, len: 20, flags: ACK, window: 2880, cksum: 2974
+1
+2
+[READ][cTCP] seqno: 24481, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 4694
+[READ][cTCP] seqno: 25921, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 65d2
+[READ][cTCP] seqno: 27361, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 3d21
+[READ][cTCP] seqno: 28801, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 78e5
+[READ][cTCP] seqno: 30241, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 45c7
+ ACK, window: 5760, cksum: 896e
+[READ][cTCP] seqno: 21601, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 336a
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 28801, len: 20, flags: ACK, window: 2880, cksum: 2974
+[READ][cTCP] seqno: 23041, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 2569
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 28801, len: 20, flags: ACK, window: 2880, cksum: 2974
+1
+2
+[READ][cTCP] seqno: 24481, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 1b68
+[READ][cTCP] seqno: 25921, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 84fe
+[READ][cTCP] seqno: 27361, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 6e37
+[READ][cTCP] seqno: 28801, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: cb2c
+[READ][cTCP] seqno: 30241, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 215e
+[READ][cTCP] seqno: 18721, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: f66a
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 33121, len: 20, flags: ACK, window: 5760, cksum: 958
+[READ][cTCP] seqno: 20161, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: f339
+[READ][cTCP] seqno: 21601, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: c45d
+[READ][cTCP] seqno: 23041, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 1a85
+[READ][cTCP] seqno: 24481, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: b85f
+[READ][cTCP] seqno: 25921, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: f578
+[READ][cTCP] seqno: 27361, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 6062
+[READ][cTCP] seqno: 28801, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: bfb8
+[READ][cTCP] seqno: 30241, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: fa72
+[READ][cTCP] seqno: 31681, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 89c8
+[READ][cTCP] seqno: 33121, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: b6f1
+[READ][cTCP] seqno: 34561, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 6fad
+[READ][cTCP] seqno: 36001, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 71d4
+[READ][cTCP] seqno: 37441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: a689
+[READ][cTCP] seqno: 14401, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 62c3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 33121, len: 20, flags: ACK, window: 5760, cksum: 958
+[READ][cTCP] seqno: 15841, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: fe5f
+[READ][cTCP] seqno: 17281, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 556f
+[READ][cTCP] seqno: 18721, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 43dc
+[READ][cTCP] seqno: 20161, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 714b
+[READ][cTCP] seqno: 21601, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: df4e
+[READ][cTCP] seqno: 23041, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 7e3e
+[READ][cTCP] seqno: 24481, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 29dc
+[READ][cTCP] seqno: 24481, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 594e
+[READ][cTCP] seqno: 24481, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 1169
+[READ][cTCP] seqno: 21601, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 1554
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 33121, len: 20, flags: ACK, window: 5760, cksum: 958
+[READ][cTCP] seqno: 23041, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: be8b
+[READ][cTCP] seqno: 24481, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: be21
+[READ][cTCP] seqno: 25921, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 44f4
+[READ][cTCP] seqno: 27361, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: b265
+[READ][cTCP] seqno: 28801, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: b475
+[READ][cTCP] seqno: 30241, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: cb99
+[READ][cTCP] seqno: 31681, ackno: 1, len: 1460, flags:[REC, window: 4320, cksum: 9ea
+EOF
+[READ][cTCP] seqno: 33121, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: b6f1
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34561, len: 20, flags: ACK, window: 5760, cksum: 6952
+[READ][cTCP] seqno: 25921, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 7e80
+[READ][cTCP] seqno: 27361, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 7e16
+[READ][cTCP] seqno: 28801, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 4e9
+[READ][cTCP] seqno: 30241, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 725a
+[READ][cTCP] seqno: 31681, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 746a
+[READ][cTCP] seqno: 33121, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 8b8e
+[READ][cTCP] seqno: 34561, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: c9de
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34561, len: 20, flags: ACK, window: 5760, cksum: 6952
+[READ][cTCP] seqno: 25921, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: ea5a
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34561, len: 20, flags: ACK, window: 5760, cksum: 6952
+1
+2
+[READ][cTCP] seqno: 27361, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 817f
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34561, len: 20, flags: ACK, window: 5760, cksum: 6952
+1
+2
+[READ][cTCP] seqno: 28801, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: bf71
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34561, len: 20, flags: ACK, window: 5760, cksum: 6952
+1
+2
+3
+[READ][cTCP] seqno: 30241, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: b5f0
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34561, len: 20, flags: ACK, window: 5760, cksum: 6952
+1
+4
+[READ][cTCP] seqno: 31681, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 9d9
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34561, len: 20, flags: ACK, window: 5760, cksum: 6952
+[READ][cTCP] seqno: 33121, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: adb
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34561, len: 20, flags: ACK, window: 5760, cksum: 6952
+1
+2
+[READ][cTCP] seqno: 34561, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 614e
+[READ][cTCP] seqno: 36001, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 8913
+[READ][cTCP] seqno: 37441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: a689
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34561, len: 20, flags: ACK, window: 5760, cksum: 6952
+[READ][cTCP] seqno: 38881, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 9c7
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34561, len: 20, flags: ACK, window: 5760, cksum: 6952
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34561, len: 20, flags: ACK, window: 5760, cksum: 6952
+[READ][cTCP] seqno: 33121, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 4011
+[READ][cTCP] seqno: 34561, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 3329
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34561, len: 20, flags: ACK[READ][cTCP] seqno: 21601, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: f628
+[READ][cTCP] seqno: 23041, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 1808
+[READ][cTCP] seqno: 33121, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: ea89
+[READ][cTCP] seqno: 34561, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 4a84
+[READ][cTCP] seqno: 36001, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: df8
+[READ][cTCP] seqno: 37441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 6489
+[READ][cTCP] seqno: 38881, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: ae35
+[READ][cTCP] seqno: 21601, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: f016
+[READ][cTCP] seqno: 23041, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 8259
+[READ][cTCP] seqno: 24481, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: eddf
+[READ][READ][cTCP] seqno: 21601, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: d670
+[READ][cTCP] seqno: 21601, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 633c
+[READ][cTCP] seqno: 23041, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: dc37
+[READ][cTCP] seqno: 24481, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 7628
+[READ][cTCP] seqno: 20161, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: f35e
+[READ][cTCP] seqno: 21601, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 8a40
+[READ][cTCP] seqno: 23041, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 5011
+[READ][cTCP] seqno: 24481, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 1f36
+[READ][cTCP] seqno: 21601, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: b4d
+[READ][cTCP] seqno: 23041, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: f402
+[READ][cTCP] seqno: 24481, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 1c75
+[READ][cTCP] seqno: 25921, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: b244
+[READ][cTCP] seqno: 27361, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: e56
+[READ][cTCP] seqno: 28801, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: fa2b
+[READ][cTCP] seqno: 30241, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 3300
+[READ][cTCP] seqno: 31681, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 1629
+[READ][cTCP] seqno: 33121, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: c8be
+[READ][cTCP] seqno: 34561, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 435
+[READ][cTCP] seqno: 36001, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 83b2
+[READ][cTCP] seqno: 37441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 7e06
+[READ][cTCP] seqno: 21601, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: f9a6
+[READ][cTCP] seqno: 23041, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 996b
+[READ][cTCP] seqno: 24481, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: e099
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 5760, cksum: 6852
+[READ][cTCP] seqno: 25921, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 7348
+[READ][cTCP] seqno: 27361, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: d1b3
+[READ][cTCP] seqno: 28801, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 87d1
+[READ][cTCP] seqno: 30241, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: b511
+[READ][cTCP] seqno: 31681, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 997f
+[READ][cTCP] seqno: 33121, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 51e1
+[READ][cTCP] seqno: 34561, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: cdb0
+[READ][cTCP] seqno: 36001, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 6e16
+[READ][cTCP] seqno: 37441, ackno: 1, len: 21, flags: ACK, window: 4320, cksum: c7e0
+[READ][cTCP] seqno: 33121, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 4fae
+[READ][cTCP] seqno: 34561, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: a831
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 5760, cksum: 6852
+[READ][cTCP] seqno: 36001, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 6c21
+[READ][cTCP] seqno: 37441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 77f5
+[READ][cTCP] seqno: 38881, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: ed42
+[READ][cTCP] seqno: 40321, ackno: 1, len: 21, flags: ACK, window: 4320, cksum: 8821
+[READ][cTCP] seqno: 33121, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 9e2
+[READ][cTCP] seqno: 34561, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: a09e
+[READ][cTCP] seqno: 36001, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 759
+[READ][cTCP] seqno: 37441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 917e
+[READ][cTCP] seqno: 37441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 4e3b
+[READ][cTCP] seqno: 38881, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 4e3
+[READ][cTCP] seqno: 33121, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 8b8e
+[READ][cTCP] seqno: 34561, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: a318
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 5760, cksum: 6852
+[READ][cTCP] seqno: 36001, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: e85b
+[READ][cTCP] seqno: 37441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 10df
+[READ][cTCP] seqno: 38881, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: dddd
+[READ][cTCP] seqno: 40321, ackno: 1, len: 21, flags: ACK, window: 4320, cksum: 87d5
+[READ][cTCP] seqno: 33121, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 181d
+[READ][cTCP] seqno: 34561, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 8c6e
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 5760, cksum: 6852
+[READ][cTCP] seqno: 36001, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: d07e
+[READ][cTCP] seqno: 37441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: b4c8
+[READ][cTCP] seqno: 38881, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: c047
+[READ][cTCP] seqno: 40321, ackno: 1, len: 21, flags: ACK, window: 4320, cksum: 8821
+[READ][cTCP] seqno: 36001, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 8913
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 5760, cksum: 6852
+[READ][cTCP] seqno: 37441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: a4a5
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 4320, cksum: 858
+1
+2
+[READ][cTCP] seqno: 38881, ackno: 1, len: 21, flags: ACK, window: 4320, cksum: 27df
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 4320, cksum: 858
+1
+2
+[READ][cTCP] seqno: 23041, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: ad31
+[READ][cTCP] seqno: 24481, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: d512
+[READ][cTCP] seqno: 25921, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 32b7
+[READ][cTCP] seqno: 27361, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: f816
+[READ][cTCP] seqno: 28801, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 3255
+[READ][cTCP] seqno: 30241, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: c40c
+[READ][cTCP] seqno: 31681, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: e4e6
+[READ][cTCP] seqno: 33121, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: e156
+[READ][cTCP] seqno: 34561, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 2bbe
+[READ][cTCP] seqno: 36001, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: bac1
+[READ][cTCP] seqno: 37441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 80a0
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 4320, cksum: 858
+[READ][cTCP] seqno: 36001, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 3e34
+[READ][cTCP] seqno: 37441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: ce8b
+[READ][READ][cTCP] seqno: 31681, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 9d9
+[READ][cTCP] seqno: 33121, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: ebe8
+[READ][cTCP] seqno: 34561, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: d194
+[READ][cTCP] seqno: 36001, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 6a1d
+[READ][cTCP] seqno: 37441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: e90d
+[READ][cTCP] seqno: 38881, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: ae6d
+[READ][cTCP] seqno: 38881, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 9c7
+, window: 5760, cksum: 6952
+[READ][cTCP] seqno: 36001, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: e52d
+[READ][cTCP] seqno: 37441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: db8d
+[READ][cTCP] seqno: 21601, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 8a40
+[READ][cTCP] seqno: 23041, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: a004
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[READ][cTCP] seqno: 24481, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 3c4f
+[READ][cTCP] seqno: 25921, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: ba7f
+[READ][cTCP] seqno: 27361, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 2931
+[READ][cTCP] seqno: 28801, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 9477
+[READ][cTCP] seqno: 30241, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 76ed
+[READ][cTCP] seqno: 31681, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: c17
+[READ][cTCP] seqno: 33121, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: cd9a
+[READ][cTCP] seqno: 34561, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 6f9d
+[READ][cTCP] seqno: 36001, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 3a20
+[READ][cTCP] seqno: 37441, ackno: 1, len: 21, flags: ACK, window: 4320, cksum: c7d6
+[READ][cTCP] seqno: 37441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 3f88
+[READ][cTCP] seqno: 36001, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 88a9
+[READ][cTCP] seqno: 37441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 9a20
+[READ][cTCP] seqno: 38881, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: ae35
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[READ][cTCP] seqno: 33121, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: ba45
+[READ][cTCP] seqno: 34561, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 8b27
+[READ][cTCP] seqno: 36001, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: c9c0
+[READ][cTCP] seqno: 37441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 7309
+[READ][cTCP] seqno: 38881, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: d4ae
+[READ][cTCP] seqno: 37441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 77f5
+[READ][cTCP] seqno: 38881, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: c592
+[READ][cTCP] seqno: 40321, ackno: 1, len: 21, flags: ACK, window: 4320, cksum: 87db
+[READ][cTCP] seqno: 24481, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 243b
+[READ][cTCP] seqno: 25921, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 73e0
+[READ][cTCP] seqno: 27361, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 7f44
+[READ][cTCP] seqno: 28801, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 87fe
+[READ][cTCP] seqno: 37441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: fedf
+[READ][cTCP] seqno: 38881, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 4e3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[READ][cTCP] seqno: 31681, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 9ee6
+[READ][cTCP] seqno: 33121, ackno: 1, len: 404, flags: ACK, window: 4320, cksum: f7f8
+EOF
+[READ][cTCP] seqno: 33121, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 4fae
+EOF
+[READ][cTCP] seqno: 38881, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: dddd
+EOF
+[READ][cTCP] seqno: 37441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 4e3b
+EOF
+[READ][cTCP] seqno: 33121, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 51e1
+EOF
+[READ][cTCP] seqno: 25921, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 37d6
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[READ][cTCP] seqno: 38881, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: c047
+EOF
+[READ][cTCP] seqno: 38881, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: ed42
+EOF
+[cTCP] seqno: 25921, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 832b
+EOF
+[READ][cTCP] seqno: 37441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: a4a5
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[cTCP] seqno: 38881, ackno: 1, len: 21, flags: ACK, window: 4320, cksum: 2827
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[READ][cTCP] seqno: 38881, ackno: 1, len: 21, flags: ACK, window: 4320, cksum: 2827
+[READ][cTCP] seqno: 37441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: ce8b
+EOF
+[READ][cTCP] seqno: 37441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: e90d
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[READ][cTCP] seqno: 30241, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: dcfe
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+EOF
+[READ][cTCP] seqno: 37441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 9a20
+[READ][cTCP] seqno: 33121, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: c8be
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[READ][cTCP] seqno: 38881, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: c592
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[READ][cTCP] seqno: 37441, ackno: 1, len: 21, flags: ACK, window: 4320, cksum: c7e0
+[READ][cTCP] seqno: 31681, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 9ee6
+EOF
+[READ][cTCP] seqno: 36001, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: c9c0
+EOF
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[READ][cTCP] seqno: 33121, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: e156
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[READ][cTCP] seqno: 37441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 7309
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+EOF
+[READ][cTCP] seqno: 37441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 7e06
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[READ][cTCP] seqno: 37441, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 80a0
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[READ][cTCP] seqno: 31681, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: c17
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[READ][cTCP] seqno: 36001, ackno: 1, len: 1460, flags: ACK, window: 4320, cksum: 3a20
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+EOF
+[READ][cTCP] seqno: 37441, ackno: 1, len: 21, flags: ACK, window: 4320, cksum: c7d6
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+EOF
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+EOF
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+booooooooo[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+4
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+booooooooooooooooooooooom!
+[INFO] Disconnected from server
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
+[RECIEVE]
+[cTCP] seqno: 1, ackno: 34562, len: 20, flags: ACK, window: 2880, cksum: a85d
+1
+2
+3
