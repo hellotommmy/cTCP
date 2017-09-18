@@ -11,7 +11,7 @@
 #define CTCP_H
 
 #include "ctcp_sys.h"
-
+#include "ctcp_linked_list.h"
 /**
  * Maximum segment data size.
  *
@@ -66,9 +66,67 @@ typedef struct {
  */
 struct ctcp_state;
 typedef struct ctcp_state ctcp_state_t;
+enum ctcp_ca_state{
+    CA_Open = 1,
+    CA_CWR = 2,
+    CA_Disorder = 3,
+    CA_Recovery = 4,
+    CA_Loss = 5,
+    };
 
-
+struct ctcp_state {
+    struct ctcp_state *next;  /* Next in linked list */
+    struct ctcp_state **prev; /* Prev in linked list */
+    
+    //调conn相关API需要
+    conn_t *conn;             /* Connection object -- needed in order to figure
+                                 out destination when sending */
+    //发送队列，保存所有已发送但未确认的segment
+    linked_list_t *segments;  
+    linked_list_t *reorder_list;
+    char *rcv_buf;
+    //接收窗口大小（也就是对方的发送窗口大小）
+    uint16_t rwnd;
+    //发送缓冲区，供存放从标准输入读取的数据
+    char *snd_buf;
+    //发送窗口大小（滑动窗口值）
+    uint16_t swnd;
+    int timer;
+    //超时重传阈值
+    int rto;
+    //当前未确认的第一个数据包的发送时间
+    //-1 表示当前没有未确认的数据包
+    long timestamp;
+    //当前的重传次数
+    int retry;
+    //下一个待发送数据包的序列号
+    uint32_t snd_seq;
+    //下一个待确认的数据包的序列号
+    uint32_t snd_ack;
+    //下一个期望收到的对方数据包的序列号
+    uint32_t rcv_ack;
+    //已经发送过FIN
+    char fin_send;
+    //已经接收过FIN
+    char fin_recv;
+    //the point where fast recovery will end
+    uint32_t seq_high;
+    //the receive window advertised by the other side, in bytes
+    uint16_t awnd;
+    //state machine
+    enum ctcp_ca_state ca_state;
+    //the number of dupacks
+    uint32_t sacked_out;
+    //congestion window, in segments(??)
+    uint32_t cwnd;
+    //the number of ACKs before increasing cwnd in AI
+    uint32_t cwnd_cnt;
+    //the maximum cwnd allowed
+    uint32_t cwnd_clamp;
+    uint32_t ssthresh;
+};
 ////////////////////////////////// YOUR CODE //////////////////////////////////
+
 
 /**
  * Initialize state associated with a connection. This is called by the library
@@ -180,5 +238,13 @@ void ctcp_output(ctcp_state_t *state);
  * Note that this is called BEFORE ctcp_init() so state_list might be NULL.
  */
 void ctcp_timer();
+/**
+ * Append a segment structure to state structure to wait until it is acked.
+   
+   Note that there could be no segments waiting to get acknowledged so need
+   to test if the linked list is emtpy first.
+ */
+int append_seg(ctcp_state_t *state, ctcp_segment_t *seg);
 
+ctcp_segment_t * cons_and_send(ctcp_state_t * state, int data_len, char * payload, uint32_t flags);
 #endif /* CTCP_H */

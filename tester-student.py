@@ -638,7 +638,7 @@ def larger_windows():
 
 # Tests to run.
 TESTS = [
-  # Test type, test name, test function
+#   Test type, test name, test function
   ("basic", "Client sends data", client_sends,
    "Client has data to read from STDIN. Checks that a segment is sent as a\n" +
    "result, and that it has the right length."),

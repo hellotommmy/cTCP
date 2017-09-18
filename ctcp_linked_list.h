@@ -45,6 +45,14 @@ linked_list_t *ll_create();
 void ll_destroy(linked_list_t *list);
 
 /**
+ * Destroys a linked list. This will free up its memory and the memory taken
+ * by its nodes. This DOES free up the memory taken up by the objects
+ * contained within the nodes.
+ *
+ * list: The list to destroy.
+ */
+void ll_destroy_and_free(linked_list_t *list);
+/**
  * Adds an object to the back of the linked list. Returns the linked list node
  * that contains this object. This node must be freed by removing it from the
  * list (via ll_remove()) or destroying the list (ll_destroy()). The contained

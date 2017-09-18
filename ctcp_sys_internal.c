@@ -1347,7 +1347,7 @@ static void usage(char *progname) {
   );
   exit(1);
 }
-
+FILE *fp;
 int main(int argc , char *argv[]) {
   /* Get program name. */
   char *progname = strrchr(argv[0], '/');
@@ -1355,7 +1355,8 @@ int main(int argc , char *argv[]) {
     progname++;
   else
     progname = argv[0];
-
+  //TODO
+  fp = fopen("cwnd_and_t.csv","w+");
   /* Possible command-line arguments. */
   bool is_server = 0;
   bool is_client = 0;

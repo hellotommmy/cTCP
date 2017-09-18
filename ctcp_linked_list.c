@@ -22,6 +22,22 @@ void ll_destroy(linked_list_t *list) {
   free(list);
 }
 
+void ll_destroy_and_free(linked_list_t *list) {
+  if (list == NULL)
+    return;
+
+  ll_node_t *curr = list->head;
+  ll_node_t *next = NULL;
+  while (curr != NULL) {
+    next = curr->next;
+    free(curr->object);
+    free(curr);
+    curr = next;
+  }
+  free(list);
+}
+
+
 ll_node_t *ll_create_node(void *object) {
   ll_node_t *node = calloc(sizeof(ll_node_t), 1);
   node->next = NULL;

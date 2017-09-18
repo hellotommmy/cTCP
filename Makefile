@@ -1,6 +1,7 @@
 
 CC = gcc
-CFLAGS = -g -Wall -Werror -pthread
+#CFLAGS = -g -Wall -Werror -pthread
+CFLAGS = -g -Wall  -pthread
 
 TAR = ctcp.tar.gz
 SUBMISSION_SITE = https://web.stanford.edu/class/cs144/cgi-bin/submit/
